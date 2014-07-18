@@ -1,0 +1,8 @@
+Disallow:
+
+User-agent: *
+Disallow: /config.php
+Disallow: /administration/
+Disallow: /includes/
+Disallow: /locale/
+Disallow: /themes/
