@@ -1,0 +1,9 @@
+.metro [data-role=panel] .panel-header:after {
+	float:left
+}
+
+.metro .tile .brand .badge,
+.metro .tile .tile-status .badge {
+	right:0;
+	left:10px
+}

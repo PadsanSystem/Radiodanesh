@@ -1,0 +1,41 @@
+.metro [data-role=panel] .panel-header:after {
+	float:left
+}
+
+.metro .tile .brand .badge,
+.metro .tile .tile-status .badge {
+	right:0;
+	left:10px
+}
+
+.videos{
+	height:900px;
+	background: transparent url(../images/background/bg7.png) no-repeat fixed;
+	padding-left:15px
+}
+
+.facilities{
+	height:900px;
+	background: transparent url(../images/background/bg12.jpg) no-repeat fixed;
+	padding-left:15px
+}
+
+.news{
+	height:900px;
+	background: transparent url(../images/background/tiles-bg.jpg) no-repeat fixed;
+	padding-left:15px
+}
+
+.news_audio{
+	height:900px;
+	background: transparent url(../images/background/bg8.png) no-repeat fixed;
+	padding-left:15px
+}
+
+.slideshow{
+	height:700px
+}
+
+.container {
+	width: 100%;
+}
